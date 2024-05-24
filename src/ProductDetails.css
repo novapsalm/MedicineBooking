@@ -1,0 +1,24 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+   }
+   
+   .container h1 {
+    margin-bottom: 15px;
+   }
+   
+   .container p {
+    margin-bottom: 10px;
+   }
+   
+   .button-container {
+    margin-top: 20px;
+    text-align: center;
+   }
+   
+   .button-container button {
+    margin-right: 10px;
+   }

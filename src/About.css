@@ -1,0 +1,45 @@
+/* AboutPage.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0);
+    background: linear-gradient(to bottom right, #56ccf2, #2f80ed);
+    color: #fff;
+    overflow: hidden;
+  }
+  
+  h1 {
+    color: #0d0c0c;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #080606;
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+    text-align:center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }  
